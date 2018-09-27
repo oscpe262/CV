@@ -2,7 +2,7 @@
 ## Utbildning
 ### Högskoleingenjör i datateknik - Linköpings tekniska högskola
 **Start:** 2014
-**Slut:** Pågående
+**Slut:** 2017
 **Examen:** Nej
 
 **Beskrivning:** Vidare beskrivning under [Studiebeskrivning](https://github.com/oscpe262/CV#studiebeskrivning)
@@ -92,6 +92,13 @@ Many of these Ansible repos can be found here on my github page, but there are t
 *A = Obehindrad och välformulerad, B = Obehindrad, C = ej obehindrad, D = Hjälplig, E = Bristfällig*
 
 ## Arbetslivserfarenhet
+#### Systemadministratör, Linux/Unix - SysPartner AB - Linköping
+**Start:** 2017 (Dec)
+**Slut:** Pågående
+
+**Arbetsbeskrivning:** 3:rd line-tekniker Linux/Unix hos DXC. Uppdraget inkluderar exempelvis drift av mailsystem, DNS och terminalservrar, patchning,
+  utbyggnad av befintlig Ansiblestruktur för managering och konfigurationsstyrning av befintliga och kommande miljöer.
+
 #### Lagerarbetare - Netto centrallager via Student Consulting - Linköping
 **Start:** 2017 (Jun)
 **Slut:** Pågående
