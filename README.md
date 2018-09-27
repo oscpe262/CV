@@ -59,8 +59,6 @@ The environment consisted of three Arch Linux nodes, and multiple virtual lab ma
 DNS-services, printer server (CUPS), distributed file storage over NFS, NTP and a 
 plethora of additional services, administrated with `Ansible`.
 
----
-### Studierelaterade fritidsprojekt
 #### System Administration - Project MilkyWay
 **MilkyWay:** *Linux System Administration*
 
