@@ -101,7 +101,7 @@ Many of these Ansible repos can be found here on my github page, but there are t
 
 #### Lagerarbetare - Netto centrallager via Student Consulting - Linköping
 **Start:** 2017 (Jun)
-**Slut:** Pågående
+**Slut:** 2017 (Nov)
 
 **Arbetsbeskrivning:** Orderplock, truckkörning
 
