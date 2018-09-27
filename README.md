@@ -63,12 +63,12 @@ Many of these Ansible repos can be found here on my github page, but there are t
 ## Kunskaps- och färdighetsbas
 |Operativsystem ||Verktyg ||Programmeringsspråk ||Övriga språk o.dyl.||
 |---|---|---|---|---|---|---|---|
-|GNU/Linux | A|Ansible | B+|Assembler | B|BaSH | A|
+|GNU/Linux | A|Ansible | A|Assembler | B|BaSH | A|
 |Windows | B|Adobe Photoshop | C|VHDL | B|LaTeX | B|
 |OSX | C|GIMP | C|C | C|MatLab | C|
 |||Inkscape | C|C++ | C|SQL | C|
 |||QTCreator | C|Java | C|HTML | E|
-|||Git | C|C\# | E|CSS | E|
+|||Git | B|C\# | E|CSS | E|
 
 *Tabellen är på intet sätt heltäckande. Fråga gärna om mer specifika applikationer.*
 *Bokstavsskalan representerar hur förtrogen jag är med att lösa problem i, och uppgifter med, respektive verktyg.*
