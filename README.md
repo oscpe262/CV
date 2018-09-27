@@ -54,10 +54,22 @@ Conifuration of four Debian-based UML nodes, including networking, NTP, DNS, NIS
 
 As a full-time Linux user since late 2012, the TDDI41 course (see above) inspired 
 me to take a leap from stand-alone clients at home to an interconnected environment.
-The environment consist of three Arch Linux nodes, and multiple virtual lab machines
+The environment consisted of three Arch Linux nodes, and multiple virtual lab machines
 (CentOS 7, Linux Mint, Ubuntu Server, Fedora) in a multi-user LDAP domain with 
 DNS-services, printer server (CUPS), distributed file storage over NFS, NTP and a 
-plethora of additional services, administrated with `Ansible`. 
+plethora of additional services, administrated with `Ansible`.
+
+---
+### Studierelaterade fritidsprojekt
+#### System Administration - Project MilkyWay
+**MilkyWay:** *Linux System Administration*
+
+A reduction in sparetime when going back to working full time called for a change in
+the home environment--enter project MilkyWay. A distribution change from Arch to Fedora was made
+in order to aquire a more reliable environment but still with recent packaging.
+The server functionalities were moved to virtual machines and a bastion node was implemented.
+The lab environment came to be CentOS and Fedora exclusive for the time being. A SaltStack
+implementation is planned for educational purposes, but `Ansible` remains the main orchestration tool for now.
 
 Many of these Ansible repos can be found here on my github page, but there are too many to link to individually.
 ## Kunskaps- och färdighetsbas
